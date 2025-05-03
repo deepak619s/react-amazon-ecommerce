@@ -1,5 +1,5 @@
 
-# React Amazon Ecommmerce
+# React Amazon Ecommerce
 
 "ShopSmart"
 
